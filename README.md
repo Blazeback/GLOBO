@@ -3,4 +3,4 @@ A school network programming project in which I made a 1 vs. 1 player game about
 
 You can download it here: https://drive.google.com/file/d/1sE5vC_57R7p17xP1WnDrZIOjpPHPOMC7/view?usp=sharing
 
-Made in Java.
+Made in Java with LibGDX libraries.
